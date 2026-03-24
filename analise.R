@@ -8,6 +8,4 @@
 ###usethis::git_sitrep()
 
 x <- 1:10 
-mean(x)
-sum (x)
-# 
+median(x)
